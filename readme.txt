@@ -1,6 +1,3 @@
 hello world!
  i add another line.
-
-hello
-
- a mistake
+i use this to learn git.
