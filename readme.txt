@@ -1,4 +1,4 @@
 hello world!
 i add another line.
 i use this to learn git.
-create a new branch is quick.
+create a new branch is quick AND simple.
